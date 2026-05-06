@@ -15,9 +15,9 @@ POLL_SECONDS = 10
 
 # Ссылки для предотвращения "сна" (Render Keep-Alive)
 KEEP_ALIVE_URLS = [
-    "https://rre-shop-payments.onrender.com",
-    "https://rre-shop-api.onrender.com",
-    "https://rre-shop.onrender.com"
+    "https://rreshop.onrender.com",
+    "https://rre-shop-backend.onrender.com",
+    "https://nexaflowpay.onrender.com"
 ]
 # ==============================
 
